@@ -3,5 +3,8 @@ DownloadRUIAN.cfg
 ImportRUIAN.cfg
 RUIANServices.cfg
 
+# Python cache
+*.pyc
+
 # OSX
 .DS_Store
